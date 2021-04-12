@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Deepak Kumar Yadav</h1>
-<h3 align="center">I am a Android Developer enthusiast. I am passionate about technologies and love to learn new things.</h3>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Deepak, a full-time Android developer 👨‍💻 and I am passionate about technologies and love to learn new things 🚀</div> 
+
 
 - 🔭 I’m currently working on **Android project**
 
