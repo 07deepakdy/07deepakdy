@@ -2,8 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center">I'm Deepak, a full-time Android developer 👨‍💻 and I am passionate about technologies and love to learn new things 🚀</div> 
+  ### <div align="center">I'm Deepak, a full-time Android developer 👨‍💻 and I am passionate about technologies and love to learn new things 🚀</div> 
 
 
 - 🔭 I’m currently working on **Android project**
